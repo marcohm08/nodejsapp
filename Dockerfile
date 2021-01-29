@@ -5,4 +5,3 @@ RUN npm install
 RUN npm install mocha -g
 EXPOSE 3000
 CMD npm start
-CMD npm test
